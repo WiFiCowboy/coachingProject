@@ -1,3 +1,6 @@
+body {
+    padding-top: 65px;
+}
 
 .navbar {
     background-color: #2D2D2D;  
@@ -10,3 +13,8 @@
 
 
 /* #067ab4 */
+#header {
+    background: url(images/header.jpg);
+    /* Photo by Bernard Hermant on Unsplash */
+    /* background: url(imgs/header.jpeg) center center / cover no-repeat; */
+}
